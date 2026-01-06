@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
 
-Sitemap: 
+Sitemap: https://droneepazz.github.io/drone-services-Ireland/sitemap.xml
+
